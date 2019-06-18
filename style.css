@@ -1,0 +1,31 @@
+
+
+
+.table
+{
+	background-color: blue;
+}
+
+tr td h1
+{
+	color:white;
+}
+
+.a{
+	width: 100%;
+}
+#a
+{
+	float:right;
+	margin-right: 50px;
+
+}
+
+body
+{
+	background-color:lightblue;
+}
+.b
+{
+background-color:lightblue;
+}
